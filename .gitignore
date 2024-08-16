@@ -1,0 +1,7 @@
+**.cmd
+**.ko
+**.o
+Module.symvers
+modules.order
+dev_dice_drv.mod.c
+**.mod
